@@ -9,7 +9,7 @@ The requirements are as following:
 * Write an apidoc comment for each of your endpoints
 * Ensure all your required files are within /app/out
 
-The example written uses Jetty to serve the HTTP endpoint. You can run the example with:
+The example written uses Jettys to serve the HTTP endpoint. You can run the example with:
 
 docker build -t kinto-javahttp-example .
 docker run kinto-javahttp-example
